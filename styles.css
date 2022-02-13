@@ -1,0 +1,82 @@
+.header{
+    background-color: blueviolet;
+    display: flex;
+    border: solid
+
+}
+.img-class{
+    height: 300px;
+    width: 400px;
+}
+
+body{
+    background-color: rgb(248, 150, 227);
+    background-image: url("https://biteable.com/content/uploads/2018/03/Background-Videos-for-Your-Homepage-SM-1200x630-c-center.jpg");
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+    background-size: cover;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+   
+    
+}
+
+h1{
+    color: rgb(12, 12, 12);
+    border: solid;
+    font-size: 60px;
+    font-family: sans-serif;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+    
+    /* margin: 30px; */
+     /* padding-left: 30px; */ }
+  
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+    
+      }
+
+.p1{
+    text-decoration: underline;
+}
+.p3 {
+        font-family: "Lora", "serif", monospace;
+    }
+/* ol.c{
+    list-style-type: upper-roman;
+} */
+
+ .grid{
+    font-size: 20px;
+ }
+.paragraph{
+    font-size: 20px;
+    font-family: sans-serif;
+    border: dotted;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+    
+
+}
+.paragraph2{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+
+}
+mark{
+    background-color: rgb(184, 134, 11);
+    text-shadow: 2px 2px 5px rgb(250, 244, 244);
+}
+
+    
+    
+  
+    
